@@ -1,0 +1,591 @@
+
+Popped from queue : 111111111, hValue, gValue : 8, 0
+Queue Size after Popping : 0
+Bank : 1
+Father is on Bank,Boat : 1,1 with combination : 011111110, 011111100,  Consistent and do not exist in Hash Table
+Added to queue : 011111100, fValue : 6
+Queue Size = 1
+011111010, 011110110, 011101110, 011011110, 010111110, 001111110, 
+Mother is on Bank,Boat : 1,1 with combination : 011111100, 011111101, 011111001, 011110101, 011101101, 011011101, 010111101, 001111101, 
+Gaurd is on Bank, Boat : 1,1 with combination : 011111010, 011111001, 011111011, 011110011, 011101011, 011011011, 010111011, 001111011,  Consistent and do not exist in Hash Table
+Added to queue : 001111011, fValue : 6
+Queue Size = 2
+
+Popped from queue : 011111100, hValue, gValue : 5, 1
+Queue Size after Popping : 1
+Bank : 0
+Father is on Bank,Boat : 0,0 with combination : 111111101, 111111111, 
+Mother is on Bank,Boat : 0,0 with combination : 111111111, 111111110, 
+Popped from queue : 001111011, hValue, gValue : 5, 1
+Queue Size after Popping : 0
+Bank : 0
+Gaurd is on Bank, Boat : 0,0 with combination : 101111111,  Consistent and do not exist in Hash Table
+Added to queue : 101111111, fValue : 9
+Queue Size = 1
+111111111, 
+Popped from queue : 101111111, hValue, gValue : 7, 2
+Queue Size after Popping : 0
+Bank : 1
+Father is on Bank,Boat : 1,1 with combination : 001111110, 001111100, 001111010, 001110110, 001101110, 001011110, 000111110, 
+Mother is on Bank,Boat : 1,1 with combination : 001111100, 001111101, 001111001, 001110101, 001101101, 001011101, 000111101, 
+Gaurd is on Bank, Boat : 1,1 with combination : 001111010, 001111001, 001111011, 001110011,  Consistent and do not exist in Hash Table
+Added to queue : 001110011, fValue : 7
+Queue Size = 1
+001101011,  Consistent and do not exist in Hash Table
+Added to queue : 001101011, fValue : 7
+Queue Size = 2
+001011011,  Consistent and do not exist in Hash Table
+Added to queue : 001011011, fValue : 7
+Queue Size = 3
+000111011,  Consistent and do not exist in Hash Table
+Added to queue : 000111011, fValue : 7
+Queue Size = 4
+
+Popped from queue : 001110011, hValue, gValue : 4, 3
+Queue Size after Popping : 3
+Bank : 0
+Gaurd is on Bank, Boat : 0,0 with combination : 101110111, 101111111, 111110111,  Consistent and do not exist in Hash Table
+Added to queue : 111110111, fValue : 11
+Queue Size = 4
+
+Popped from queue : 001011011, hValue, gValue : 4, 3
+Queue Size after Popping : 3
+Bank : 0
+Gaurd is on Bank, Boat : 0,0 with combination : 101011111, 101111111, 111011111,  Consistent and do not exist in Hash Table
+Added to queue : 111011111, fValue : 11
+Queue Size = 4
+
+Popped from queue : 000111011, hValue, gValue : 4, 3
+Queue Size after Popping : 3
+Bank : 0
+Gaurd is on Bank, Boat : 0,0 with combination : 100111111, 101111111, 110111111,  Consistent and do not exist in Hash Table
+Added to queue : 110111111, fValue : 11
+Queue Size = 4
+
+Popped from queue : 001101011, hValue, gValue : 4, 3
+Queue Size after Popping : 3
+Bank : 0
+Gaurd is on Bank, Boat : 0,0 with combination : 101101111, 101111111, 111101111,  Consistent and do not exist in Hash Table
+Added to queue : 111101111, fValue : 11
+Queue Size = 4
+
+Popped from queue : 111110111, hValue, gValue : 7, 4
+Queue Size after Popping : 3
+Bank : 1
+Father is on Bank,Boat : 1,1 with combination : 011110110, 011110100,  Consistent and do not exist in Hash Table
+Added to queue : 011110100, fValue : 9
+Queue Size = 4
+011110010, 011100110,  Consistent and do not exist in Hash Table
+Added to queue : 011100110, fValue : 9
+Queue Size = 5
+011010110, 010110110, 001110110, 
+Mother is on Bank,Boat : 1,1 with combination : 011110100, 011110101, 011110001, 011100101, 011010101, 010110101, 001110101, 
+Gaurd is on Bank, Boat : 1,1 with combination : 011110010, 011110001, 011110011, 011100011, 011010011, 010110011, 001110011, 
+Popped from queue : 011110100, hValue, gValue : 4, 5
+Queue Size after Popping : 4
+Bank : 0
+Father is on Bank,Boat : 0,0 with combination : 111110101, 111110111, 111111101, 
+Mother is on Bank,Boat : 0,0 with combination : 111110111, 111110110, 111111110, 
+Popped from queue : 011100110, hValue, gValue : 4, 5
+Queue Size after Popping : 3
+Bank : 0
+Father is on Bank,Boat : 0,0 with combination : 111100111,  Consistent and do not exist in Hash Table
+Added to queue : 111100111, fValue : 12
+Queue Size = 4
+111101111, 111110111, 
+Popped from queue : 111101111, hValue, gValue : 7, 4
+Queue Size after Popping : 3
+Bank : 1
+Father is on Bank,Boat : 1,1 with combination : 011101110, 011101100,  Consistent and do not exist in Hash Table
+Added to queue : 011101100, fValue : 9
+Queue Size = 4
+011101010, 011100110, 011001110, 010101110, 001101110, 
+Mother is on Bank,Boat : 1,1 with combination : 011101100, 011101101, 011101001, 011100101, 011001101, 010101101, 001101101, 
+Gaurd is on Bank, Boat : 1,1 with combination : 011101010, 011101001, 011101011, 011100011, 011001011, 010101011, 001101011, 
+Popped from queue : 011101100, hValue, gValue : 4, 5
+Queue Size after Popping : 3
+Bank : 0
+Father is on Bank,Boat : 0,0 with combination : 111101101, 111101111, 111111101, 
+Mother is on Bank,Boat : 0,0 with combination : 111101111, 111101110, 111111110, 
+Popped from queue : 110111111, hValue, gValue : 7, 4
+Queue Size after Popping : 2
+Bank : 1
+Father is on Bank,Boat : 1,1 with combination : 010111110, 010111100,  Consistent and do not exist in Hash Table
+Added to queue : 010111100, fValue : 9
+Queue Size = 3
+010111010, 010110110, 010101110, 010011110, 000111110, 
+Mother is on Bank,Boat : 1,1 with combination : 010111100, 010111101, 010111001, 010110101, 010101101, 010011101,  Consistent and do not exist in Hash Table
+Added to queue : 010011101, fValue : 9
+Queue Size = 4
+000111101, 
+Gaurd is on Bank, Boat : 1,1 with combination : 010111010, 010111001, 010111011, 010110011, 010101011, 010011011, 000111011, 
+Popped from queue : 010111100, hValue, gValue : 4, 5
+Queue Size after Popping : 3
+Bank : 0
+Father is on Bank,Boat : 0,0 with combination : 110111101, 110111111, 111111101, 
+Mother is on Bank,Boat : 0,0 with combination : 110111111, 110111110, 111111110, 
+Popped from queue : 010011101, hValue, gValue : 4, 5
+Queue Size after Popping : 2
+Bank : 0
+Mother is on Bank,Boat : 0,0 with combination : 110011111,  Consistent and do not exist in Hash Table
+Added to queue : 110011111, fValue : 12
+Queue Size = 3
+110111111, 111011111, 
+Popped from queue : 111011111, hValue, gValue : 7, 4
+Queue Size after Popping : 2
+Bank : 1
+Father is on Bank,Boat : 1,1 with combination : 011011110, 011011100,  Consistent and do not exist in Hash Table
+Added to queue : 011011100, fValue : 9
+Queue Size = 3
+011011010, 011010110, 011001110, 010011110, 001011110, 
+Mother is on Bank,Boat : 1,1 with combination : 011011100, 011011101, 011011001, 011010101, 011001101, 010011101, 001011101, 
+Gaurd is on Bank, Boat : 1,1 with combination : 011011010, 011011001, 011011011, 011010011, 011001011, 010011011, 001011011, 
+Popped from queue : 011011100, hValue, gValue : 4, 5
+Queue Size after Popping : 2
+Bank : 0
+Father is on Bank,Boat : 0,0 with combination : 111011101, 111011111, 111111101, 
+Mother is on Bank,Boat : 0,0 with combination : 111011111, 111011110, 111111110, 
+Popped from queue : 110011111, hValue, gValue : 6, 6
+Queue Size after Popping : 1
+Bank : 1
+Father is on Bank,Boat : 1,1 with combination : 010011110, 010011100,  Consistent and do not exist in Hash Table
+Added to queue : 010011100, fValue : 10
+Queue Size = 2
+010011010, 010010110, 010001110, 000011110, 
+Mother is on Bank,Boat : 1,1 with combination : 010011100, 010011101, 010011001, 010010101, 010001101, 000011101, 
+Gaurd is on Bank, Boat : 1,1 with combination : 010011010, 010011001, 010011011, 010010011, 010001011, 000011011,  Consistent and do not exist in Hash Table
+Added to queue : 000011011, fValue : 10
+Queue Size = 3
+
+Popped from queue : 010011100, hValue, gValue : 3, 7
+Queue Size after Popping : 2
+Bank : 0
+Father is on Bank,Boat : 0,0 with combination : 110011101,  Consistent and do not exist in Hash Table
+Added to queue : 110011101, fValue : 13
+Queue Size = 3
+110011111, 110111101, 111011101, 
+Mother is on Bank,Boat : 0,0 with combination : 110011111, 110011110, 110111110, 111011110, 
+Popped from queue : 000011011, hValue, gValue : 3, 7
+Queue Size after Popping : 2
+Bank : 0
+Gaurd is on Bank, Boat : 0,0 with combination : 100011111, 100111111, 101011111, 110011111, 
+Popped from queue : 111100111, hValue, gValue : 6, 6
+Queue Size after Popping : 1
+Bank : 1
+Father is on Bank,Boat : 1,1 with combination : 011100110, 011100100,  Consistent and do not exist in Hash Table
+Added to queue : 011100100, fValue : 10
+Queue Size = 2
+011100010, 011000110, 010100110, 001100110, 
+Mother is on Bank,Boat : 1,1 with combination : 011100100, 011100101, 011100001, 011000101, 010100101, 001100101, 
+Gaurd is on Bank, Boat : 1,1 with combination : 011100010, 011100001, 011100011, 011000011, 010100011, 001100011,  Consistent and do not exist in Hash Table
+Added to queue : 001100011, fValue : 10
+Queue Size = 3
+
+Popped from queue : 011100100, hValue, gValue : 3, 7
+Queue Size after Popping : 2
+Bank : 0
+Father is on Bank,Boat : 0,0 with combination : 111100101, 111100111, 111101101, 111110101, 
+Mother is on Bank,Boat : 0,0 with combination : 111100111, 111100110,  Consistent and do not exist in Hash Table
+Added to queue : 111100110, fValue : 13
+Queue Size = 3
+111101110, 111110110, 
+Popped from queue : 001100011, hValue, gValue : 3, 7
+Queue Size after Popping : 2
+Bank : 0
+Gaurd is on Bank, Boat : 0,0 with combination : 101100111, 101101111, 101110111, 111100111, 
+Popped from queue : 110011101, hValue, gValue : 5, 8
+Queue Size after Popping : 1
+Bank : 1
+Father is on Bank,Boat : 1,1 with combination : 010011100, 010011000, 010010100,  Consistent and do not exist in Hash Table
+Added to queue : 010010100, fValue : 11
+Queue Size = 2
+010001100,  Consistent and do not exist in Hash Table
+Added to queue : 010001100, fValue : 11
+Queue Size = 3
+000011100, 
+Gaurd is on Bank, Boat : 1,1 with combination : 010011000, 010011001, 010010001, 010001001, 000011001,  Consistent and do not exist in Hash Table
+Added to queue : 000011001, fValue : 11
+Queue Size = 4
+
+Popped from queue : 010010100, hValue, gValue : 2, 9
+Queue Size after Popping : 3
+Bank : 0
+Father is on Bank,Boat : 0,0 with combination : 110010101, 110010111,  Consistent and do not exist in Hash Table
+Added to queue : 110010111, fValue : 15
+Queue Size = 4
+110011101, 110110101, 111010101, 
+Mother is on Bank,Boat : 0,0 with combination : 110010111, 110010110, 110011110, 110110110, 111010110, 
+Popped from queue : 010001100, hValue, gValue : 2, 9
+Queue Size after Popping : 3
+Bank : 0
+Father is on Bank,Boat : 0,0 with combination : 110001101, 110001111,  Consistent and do not exist in Hash Table
+Added to queue : 110001111, fValue : 15
+Queue Size = 4
+110011101, 110101101, 111001101, 
+Mother is on Bank,Boat : 0,0 with combination : 110001111, 110001110, 110011110, 110101110, 111001110, 
+Popped from queue : 000011001, hValue, gValue : 2, 9
+Queue Size after Popping : 3
+Bank : 0
+Mother is on Bank,Boat : 0,0 with combination : 100011011,  Consistent and do not exist in Hash Table
+Added to queue : 100011011, fValue : 14
+Queue Size = 4
+100011111, 100111011,  Consistent and do not exist in Hash Table
+Added to queue : 100111011, fValue : 15
+Queue Size = 5
+101011011,  Consistent and do not exist in Hash Table
+Added to queue : 101011011, fValue : 15
+Queue Size = 6
+110011011, 
+Gaurd is on Bank, Boat : 0,0 with combination : 100011111, 100011101, 100111101, 101011101, 110011101, 
+Popped from queue : 111100110, hValue, gValue : 5, 8
+Queue Size after Popping : 5
+Bank : 1
+Mother is on Bank,Boat : 1,1 with combination : 011100100, 011100000, 011000100,  Consistent and do not exist in Hash Table
+Added to queue : 011000100, fValue : 11
+Queue Size = 6
+010100100,  Consistent and do not exist in Hash Table
+Added to queue : 010100100, fValue : 11
+Queue Size = 7
+001100100, 
+Gaurd is on Bank, Boat : 1,1 with combination : 011100000, 011100010, 011000010, 010100010, 001100010,  Consistent and do not exist in Hash Table
+Added to queue : 001100010, fValue : 11
+Queue Size = 8
+
+Popped from queue : 011000100, hValue, gValue : 2, 9
+Queue Size after Popping : 7
+Bank : 0
+Father is on Bank,Boat : 0,0 with combination : 111000101, 111000111,  Consistent and do not exist in Hash Table
+Added to queue : 111000111, fValue : 15
+Queue Size = 8
+111001101, 111010101, 111100101, 
+Mother is on Bank,Boat : 0,0 with combination : 111000111, 111000110, 111001110, 111010110, 111100110, 
+Popped from queue : 010100100, hValue, gValue : 2, 9
+Queue Size after Popping : 7
+Bank : 0
+Father is on Bank,Boat : 0,0 with combination : 110100101, 110100111,  Consistent and do not exist in Hash Table
+Added to queue : 110100111, fValue : 15
+Queue Size = 8
+110101101, 110110101, 111100101, 
+Mother is on Bank,Boat : 0,0 with combination : 110100111, 110100110, 110101110, 110110110, 111100110, 
+Popped from queue : 001100010, hValue, gValue : 2, 9
+Queue Size after Popping : 7
+Bank : 0
+Father is on Bank,Boat : 0,0 with combination : 101100011,  Consistent and do not exist in Hash Table
+Added to queue : 101100011, fValue : 14
+Queue Size = 8
+101100111, 101101011,  Consistent and do not exist in Hash Table
+Added to queue : 101101011, fValue : 15
+Queue Size = 9
+101110011,  Consistent and do not exist in Hash Table
+Added to queue : 101110011, fValue : 15
+Queue Size = 10
+111100011, 
+Gaurd is on Bank, Boat : 0,0 with combination : 101100111, 101100110, 101101110, 101110110, 111100110, 
+Popped from queue : 100011011, hValue, gValue : 4, 10
+Queue Size after Popping : 9
+Bank : 1
+Father is on Bank,Boat : 1,1 with combination : 000011010, 000011000,  Consistent and do not exist in Hash Table
+Added to queue : 000011000, fValue : 12
+Queue Size = 10
+000010010, 000001010, 
+Mother is on Bank,Boat : 1,1 with combination : 000011000, 000011001, 000010001, 000001001, 
+Popped from queue : 000011000, hValue, gValue : 1, 11
+Queue Size after Popping : 9
+Bank : 0
+Father is on Bank,Boat : 0,0 with combination : 100011001,  Consistent and do not exist in Hash Table
+Added to queue : 100011001, fValue : 15
+Queue Size = 10
+100011011, 100011101, 100111001, 101011001, 110011001, 
+Mother is on Bank,Boat : 0,0 with combination : 100011011, 100011010, 100011110, 100111010, 101011010, 110011010, 
+Gaurd is on Bank, Boat : 0,0 with combination : 100011101, 100011110, 100011100, 100111100, 101011100, 110011100,  Consistent and do not exist in Hash Table
+Added to queue : 110011100, fValue : 16
+Queue Size = 11
+
+Popped from queue : 101100011, hValue, gValue : 4, 10
+Queue Size after Popping : 10
+Bank : 1
+Father is on Bank,Boat : 1,1 with combination : 001100010, 001100000,  Consistent and do not exist in Hash Table
+Added to queue : 001100000, fValue : 12
+Queue Size = 11
+001000010, 000100010, 
+Mother is on Bank,Boat : 1,1 with combination : 001100000, 001100001, 001000001, 000100001, 
+Popped from queue : 001100000, hValue, gValue : 1, 11
+Queue Size after Popping : 10
+Bank : 0
+Father is on Bank,Boat : 0,0 with combination : 101100001, 101100011, 101100101, 101101001, 101110001, 111100001, 
+Mother is on Bank,Boat : 0,0 with combination : 101100011, 101100010,  Consistent and do not exist in Hash Table
+Added to queue : 101100010, fValue : 15
+Queue Size = 11
+101100110, 101101010, 101110010, 111100010, 
+Gaurd is on Bank, Boat : 0,0 with combination : 101100101, 101100110, 101100100, 101101100, 101110100, 111100100,  Consistent and do not exist in Hash Table
+Added to queue : 111100100, fValue : 16
+Queue Size = 12
+
+Popped from queue : 110100111, hValue, gValue : 5, 10
+Queue Size after Popping : 11
+Bank : 1
+Father is on Bank,Boat : 1,1 with combination : 010100110, 010100100, 010100010, 010000110, 000100110, 
+Mother is on Bank,Boat : 1,1 with combination : 010100100, 010100101, 010100001, 010000101, 000100101, 
+Gaurd is on Bank, Boat : 1,1 with combination : 010100010, 010100001, 010100011, 010000011, 000100011,  Consistent and do not exist in Hash Table
+Added to queue : 000100011, fValue : 13
+Queue Size = 12
+
+Popped from queue : 000100011, hValue, gValue : 2, 11
+Queue Size after Popping : 11
+Bank : 0
+Gaurd is on Bank, Boat : 0,0 with combination : 100100111, 100101111, 100110111, 101100111, 110100111, 
+Popped from queue : 110001111, hValue, gValue : 5, 10
+Queue Size after Popping : 10
+Bank : 1
+Father is on Bank,Boat : 1,1 with combination : 010001110, 010001100, 010001010, 010000110, 000001110, 
+Mother is on Bank,Boat : 1,1 with combination : 010001100, 010001101, 010001001, 010000101, 000001101, 
+Gaurd is on Bank, Boat : 1,1 with combination : 010001010, 010001001, 010001011, 010000011, 000001011,  Consistent and do not exist in Hash Table
+Added to queue : 000001011, fValue : 13
+Queue Size = 11
+
+Popped from queue : 000001011, hValue, gValue : 2, 11
+Queue Size after Popping : 10
+Bank : 0
+Gaurd is on Bank, Boat : 0,0 with combination : 100001111, 100011111, 100101111, 101001111, 110001111, 
+Popped from queue : 101100010, hValue, gValue : 3, 12
+Queue Size after Popping : 9
+Bank : 1
+Mother is on Bank,Boat : 1,1 with combination : 001100000, 001000000,  Consistent and do not exist in Hash Table
+Added to queue : 001000000, fValue : 13
+Queue Size = 10
+000100000,  Consistent and do not exist in Hash Table
+Added to queue : 000100000, fValue : 13
+Queue Size = 11
+
+Popped from queue : 001000000, hValue, gValue : 0, 13
+Queue Size after Popping : 10
+Bank : 0
+Father is on Bank,Boat : 0,0 with combination : 101000001, 101000011,  Consistent and do not exist in Hash Table
+Added to queue : 101000011, fValue : 17
+Queue Size = 11
+101000101, 101001001, 101010001, 101100001, 111000001, 
+Mother is on Bank,Boat : 0,0 with combination : 101000011, 101000010, 101000110, 101001010, 101010010, 101100010, 111000010, 
+Gaurd is on Bank, Boat : 0,0 with combination : 101000101, 101000110, 101000100, 101001100, 101010100, 101100100, 111000100,  Consistent and do not exist in Hash Table
+Added to queue : 111000100, fValue : 17
+Queue Size = 12
+
+Popped from queue : 000100000, hValue, gValue : 0, 13
+Queue Size after Popping : 11
+Bank : 0
+Father is on Bank,Boat : 0,0 with combination : 100100001, 100100011,  Consistent and do not exist in Hash Table
+Added to queue : 100100011, fValue : 17
+Queue Size = 12
+100100101, 100101001, 100110001, 101100001, 110100001, 
+Mother is on Bank,Boat : 0,0 with combination : 100100011, 100100010, 100100110, 100101010, 100110010, 101100010, 110100010, 
+Gaurd is on Bank, Boat : 0,0 with combination : 100100101, 100100110, 100100100, 100101100, 100110100, 101100100, 110100100,  Consistent and do not exist in Hash Table
+Added to queue : 110100100, fValue : 17
+Queue Size = 13
+
+Popped from queue : 100011001, hValue, gValue : 3, 12
+Queue Size after Popping : 12
+Bank : 1
+Father is on Bank,Boat : 1,1 with combination : 000011000, 000010000,  Consistent and do not exist in Hash Table
+Added to queue : 000010000, fValue : 13
+Queue Size = 13
+000001000,  Consistent and do not exist in Hash Table
+Added to queue : 000001000, fValue : 13
+Queue Size = 14
+
+Popped from queue : 000010000, hValue, gValue : 0, 13
+Queue Size after Popping : 13
+Bank : 0
+Father is on Bank,Boat : 0,0 with combination : 100010001, 100010011,  Consistent and do not exist in Hash Table
+Added to queue : 100010011, fValue : 17
+Queue Size = 14
+100010101, 100011001, 100110001, 101010001, 110010001, 
+Mother is on Bank,Boat : 0,0 with combination : 100010011, 100010010, 100010110, 100011010, 100110010, 101010010, 110010010, 
+Gaurd is on Bank, Boat : 0,0 with combination : 100010101, 100010110, 100010100, 100011100, 100110100, 101010100, 110010100,  Consistent and do not exist in Hash Table
+Added to queue : 110010100, fValue : 17
+Queue Size = 15
+
+Popped from queue : 000001000, hValue, gValue : 0, 13
+Queue Size after Popping : 14
+Bank : 0
+Father is on Bank,Boat : 0,0 with combination : 100001001, 100001011,  Consistent and do not exist in Hash Table
+Added to queue : 100001011, fValue : 17
+Queue Size = 15
+100001101, 100011001, 100101001, 101001001, 110001001, 
+Mother is on Bank,Boat : 0,0 with combination : 100001011, 100001010, 100001110, 100011010, 100101010, 101001010, 110001010, 
+Gaurd is on Bank, Boat : 0,0 with combination : 100001101, 100001110, 100001100, 100011100, 100101100, 101001100, 110001100,  Consistent and do not exist in Hash Table
+Added to queue : 110001100, fValue : 17
+Queue Size = 16
+
+Popped from queue : 111000111, hValue, gValue : 5, 10
+Queue Size after Popping : 15
+Bank : 1
+Father is on Bank,Boat : 1,1 with combination : 011000110, 011000100, 011000010, 010000110, 001000110, 
+Mother is on Bank,Boat : 1,1 with combination : 011000100, 011000101, 011000001, 010000101, 001000101, 
+Gaurd is on Bank, Boat : 1,1 with combination : 011000010, 011000001, 011000011, 010000011, 001000011,  Consistent and do not exist in Hash Table
+Added to queue : 001000011, fValue : 13
+Queue Size = 16
+
+Popped from queue : 001000011, hValue, gValue : 2, 11
+Queue Size after Popping : 15
+Bank : 0
+Gaurd is on Bank, Boat : 0,0 with combination : 101000111, 101001111, 101010111, 101100111, 111000111, 
+Popped from queue : 110010111, hValue, gValue : 5, 10
+Queue Size after Popping : 14
+Bank : 1
+Father is on Bank,Boat : 1,1 with combination : 010010110, 010010100, 010010010, 010000110, 000010110, 
+Mother is on Bank,Boat : 1,1 with combination : 010010100, 010010101, 010010001, 010000101, 000010101, 
+Gaurd is on Bank, Boat : 1,1 with combination : 010010010, 010010001, 010010011, 010000011, 000010011,  Consistent and do not exist in Hash Table
+Added to queue : 000010011, fValue : 13
+Queue Size = 15
+
+Popped from queue : 000010011, hValue, gValue : 2, 11
+Queue Size after Popping : 14
+Bank : 0
+Gaurd is on Bank, Boat : 0,0 with combination : 100010111, 100011111, 100110111, 101010111, 110010111, 
+Popped from queue : 101110011, hValue, gValue : 5, 10
+Queue Size after Popping : 13
+Bank : 1
+Father is on Bank,Boat : 1,1 with combination : 001110010, 001110000,  Consistent and do not exist in Hash Table
+Added to queue : 001110000, fValue : 13
+Queue Size = 14
+001100010, 001010010, 000110010, 
+Mother is on Bank,Boat : 1,1 with combination : 001110000, 001110001, 001100001, 001010001, 000110001, 
+Popped from queue : 001110000, hValue, gValue : 2, 11
+Queue Size after Popping : 13
+Bank : 0
+Father is on Bank,Boat : 0,0 with combination : 101110001, 101110011, 101110101, 101111001, 111110001, 
+Mother is on Bank,Boat : 0,0 with combination : 101110011, 101110010, 101110110, 101111010, 111110010, 
+Gaurd is on Bank, Boat : 0,0 with combination : 101110101, 101110110, 101110100, 101111100, 111110100,  Consistent and do not exist in Hash Table
+Added to queue : 111110100, fValue : 17
+Queue Size = 14
+
+Popped from queue : 101101011, hValue, gValue : 5, 10
+Queue Size after Popping : 13
+Bank : 1
+Father is on Bank,Boat : 1,1 with combination : 001101010, 001101000,  Consistent and do not exist in Hash Table
+Added to queue : 001101000, fValue : 13
+Queue Size = 14
+001100010, 001001010, 000101010, 
+Mother is on Bank,Boat : 1,1 with combination : 001101000, 001101001, 001100001, 001001001, 000101001, 
+Popped from queue : 001101000, hValue, gValue : 2, 11
+Queue Size after Popping : 13
+Bank : 0
+Father is on Bank,Boat : 0,0 with combination : 101101001, 101101011, 101101101, 101111001, 111101001, 
+Mother is on Bank,Boat : 0,0 with combination : 101101011, 101101010, 101101110, 101111010, 111101010, 
+Gaurd is on Bank, Boat : 0,0 with combination : 101101101, 101101110, 101101100, 101111100, 111101100,  Consistent and do not exist in Hash Table
+Added to queue : 111101100, fValue : 17
+Queue Size = 14
+
+Popped from queue : 100111011, hValue, gValue : 5, 10
+Queue Size after Popping : 13
+Bank : 1
+Father is on Bank,Boat : 1,1 with combination : 000111010, 000111000,  Consistent and do not exist in Hash Table
+Added to queue : 000111000, fValue : 13
+Queue Size = 14
+000110010, 000101010, 000011010, 
+Mother is on Bank,Boat : 1,1 with combination : 000111000, 000111001, 000110001, 000101001, 000011001, 
+Popped from queue : 000111000, hValue, gValue : 2, 11
+Queue Size after Popping : 13
+Bank : 0
+Father is on Bank,Boat : 0,0 with combination : 100111001, 100111011, 100111101, 101111001, 110111001, 
+Mother is on Bank,Boat : 0,0 with combination : 100111011, 100111010, 100111110, 101111010, 110111010, 
+Gaurd is on Bank, Boat : 0,0 with combination : 100111101, 100111110, 100111100, 101111100, 110111100,  Consistent and do not exist in Hash Table
+Added to queue : 110111100, fValue : 17
+Queue Size = 14
+
+Popped from queue : 101011011, hValue, gValue : 5, 10
+Queue Size after Popping : 13
+Bank : 1
+Father is on Bank,Boat : 1,1 with combination : 001011010, 001011000,  Consistent and do not exist in Hash Table
+Added to queue : 001011000, fValue : 13
+Queue Size = 14
+001010010, 001001010, 000011010, 
+Mother is on Bank,Boat : 1,1 with combination : 001011000, 001011001, 001010001, 001001001, 000011001, 
+Popped from queue : 001011000, hValue, gValue : 2, 11
+Queue Size after Popping : 13
+Bank : 0
+Father is on Bank,Boat : 0,0 with combination : 101011001, 101011011, 101011101, 101111001, 111011001, 
+Mother is on Bank,Boat : 0,0 with combination : 101011011, 101011010, 101011110, 101111010, 111011010, 
+Gaurd is on Bank, Boat : 0,0 with combination : 101011101, 101011110, 101011100, 101111100, 111011100,  Consistent and do not exist in Hash Table
+Added to queue : 111011100, fValue : 17
+Queue Size = 14
+
+Popped from queue : 110011100, hValue, gValue : 4, 12
+Queue Size after Popping : 13
+Bank : 1
+Gaurd is on Bank, Boat : 1,1 with combination : 010011000, 010010000, 010001000, 000011000, 
+Popped from queue : 111100100, hValue, gValue : 4, 12
+Queue Size after Popping : 12
+Bank : 1
+Gaurd is on Bank, Boat : 1,1 with combination : 011100000, 011000000, 010100000, 001100000, 
+Popped from queue : 100010011, hValue, gValue : 3, 14
+Queue Size after Popping : 11
+Bank : 1
+Father is on Bank,Boat : 1,1 with combination : 000010010, 000010000, 000000010, 
+Mother is on Bank,Boat : 1,1 with combination : 000010000, 000010001, 000000001, 
+Popped from queue : 111011100, hValue, gValue : 5, 12
+Queue Size after Popping : 10
+Bank : 1
+Gaurd is on Bank, Boat : 1,1 with combination : 011011000, 011010000, 011001000, 010011000, 001011000, 
+Popped from queue : 110111100, hValue, gValue : 5, 12
+Queue Size after Popping : 9
+Bank : 1
+Gaurd is on Bank, Boat : 1,1 with combination : 010111000, 010110000, 010101000, 010011000, 000111000, 
+Popped from queue : 100100011, hValue, gValue : 3, 14
+Queue Size after Popping : 8
+Bank : 1
+Father is on Bank,Boat : 1,1 with combination : 000100010, 000100000, 000000010, 
+Mother is on Bank,Boat : 1,1 with combination : 000100000, 000100001, 000000001, 
+Popped from queue : 111101100, hValue, gValue : 5, 12
+Queue Size after Popping : 7
+Bank : 1
+Gaurd is on Bank, Boat : 1,1 with combination : 011101000, 011100000, 011001000, 010101000, 001101000, 
+Popped from queue : 110100100, hValue, gValue : 3, 14
+Queue Size after Popping : 6
+Bank : 1
+Gaurd is on Bank, Boat : 1,1 with combination : 010100000, 010000000,  Consistent and do not exist in Hash Table
+Added to queue : 010000000, fValue : 15
+Queue Size = 7
+000100000, 
+Popped from queue : 010000000, hValue, gValue : 0, 15
+Queue Size after Popping : 6
+Bank : 0
+Father is on Bank,Boat : 0,0 with combination : 110000001, 110000011, 110000101, 110001001, 110010001, 110100001, 111000001, 
+Mother is on Bank,Boat : 0,0 with combination : 110000011, 110000010, 110000110, 110001010, 110010010, 110100010, 111000010, 
+Gaurd is on Bank, Boat : 0,0 with combination : 110000101, 110000110, 110000100,  Consistent and do not exist in Hash Table
+Added to queue : 110000100, fValue : 18
+Queue Size = 7
+110001100, 110010100, 110100100, 111000100, 
+Popped from queue : 111110100, hValue, gValue : 5, 12
+Queue Size after Popping : 6
+Bank : 1
+Gaurd is on Bank, Boat : 1,1 with combination : 011110000, 011100000, 011010000, 010110000, 001110000, 
+Popped from queue : 111000100, hValue, gValue : 3, 14
+Queue Size after Popping : 5
+Bank : 1
+Gaurd is on Bank, Boat : 1,1 with combination : 011000000, 010000000, 001000000, 
+Popped from queue : 110010100, hValue, gValue : 3, 14
+Queue Size after Popping : 4
+Bank : 1
+Gaurd is on Bank, Boat : 1,1 with combination : 010010000, 010000000, 000010000, 
+Popped from queue : 101000011, hValue, gValue : 3, 14
+Queue Size after Popping : 3
+Bank : 1
+Father is on Bank,Boat : 1,1 with combination : 001000010, 001000000, 000000010, 
+Mother is on Bank,Boat : 1,1 with combination : 001000000, 001000001, 000000001, 
+Popped from queue : 100001011, hValue, gValue : 3, 14
+Queue Size after Popping : 2
+Bank : 1
+Father is on Bank,Boat : 1,1 with combination : 000001010, 000001000, 000000010, 
+Mother is on Bank,Boat : 1,1 with combination : 000001000, 000001001, 000000001, 
+Popped from queue : 110001100, hValue, gValue : 3, 14
+Queue Size after Popping : 1
+Bank : 1
+Gaurd is on Bank, Boat : 1,1 with combination : 010001000, 010000000, 000001000, 
+Popped from queue : 110000100, hValue, gValue : 2, 16
+Queue Size after Popping : 0
+Bank : 1
+Gaurd is on Bank, Boat : 1,1 with combination : 010000000, 
+Goal State Reached with : 000000000
+
+Trace : 000000000 , 110000100 , 010000000 , 110100100 , 000100000 , 101100010 , 001100000 , 101100011 , 001100010 , 111100110 , 011100100 , 111100111 , 011100110 , 111110111 , 001110011 , 101111111 , 001111011 , 111111111 , 
+
